@@ -27,4 +27,28 @@ Kolay ve kullanıcı dostu arayüz. Esnek ve özelleştirilebilir içerik yönet
 
 **Özelliklerin Zenginliği:** Platformun sunduğu özelliklerin zenginliği, ihtiyaçlarımızı karşılamak için ideal bir çözüm sunmaktadır. Bu nedenlerle Worldpress'i seçerek, iletişim ve bilgi yönetimi alanındaki gereksinimlerimizi en iyi şekilde karşılayacağımıza inanıyoruz.
 
-## 
+## **Q2 : Dataset tanımı [40 puan]**
+
+### Veri Seti Bilgileri:
+
+**Veri Seti Adı:** Food.com Recipes and Reviews
+
+**Veri Seti Adresi:** <https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews>
+
+**İçeriği:** Bu veri seti, yemek tarifleri ve kullanıcı yorumlarından oluşmaktadır. Tariflerin yanı sıra, her bir tarif için puanlama ve kullanıcı yorumları da bulunmaktadır.
+
+**Verinin Üretim Yöntemi ve Şartları:** Veri, Food.com platformundan toplanmıştır. Food.com, kullanıcıların yemek tariflerini paylaşabildiği bir platformdur. Veri seti, platformdaki kullanıcılar tarafından paylaşılan tarifler ve bu tariflere yapılan yorumlardan oluşmaktadır.
+
+**Verinin Formatı:** Veri seti CSV (Comma Separated Values) formatında sunulmuştur.
+
+**Boyutu:** Veri seti büyük boyutta olup, yaklaşık olarak 350 MB boyutundadır.
+
+**IMS'e Veriyi İthal Etme Planı:** IMS Worldpress'in yönetici paneline giriş yapılacak. Yönetici panelindeki veri yönetimi araçları kullanılarak, CSV formatındaki veri seti yüklenerek IMS Worldpress'e ithal edilecek. İçe aktarma sürecinde, veri alanları doğru şekilde eşleştirilerek veri setinin düzgün bir şekilde aktarılması sağlanacak.
+
+**Verileri IMS'den R'e Çekerken Planlanan Yol:** IMS Worldpress'in API'si R programlama diliyle etkileşimde bulunmak için kullanılacaktır. İşte bu sürecin temel adımları: IMS Worldpress API'sine erişim sağlanacak ve gerekli yetkilendirmeler yapılacak. R programı IMS Worldpress API'sini kullanarak veri çekme istekleri gönderecek. API'den gelen veri, R programında işlenecek ve analiz veya görselleştirme amaçları için kullanılacak. Veri çekme işlemlerinde güvenlik ve performans ön planda tutularak veri bütünlüğü sağlanacak ve olası hata durumlarına karşı gerekli önlemler alınacak.
+
+Bu yöntem, IMS Worldpress ve R arasında veri akışını sağlamak için etkili ve güvenilir bir yol olarak planlanmıştır.
+
+**Verisetinin içerdiği sütun bilgileri:**
+
+RecipeId: Tarifin benzersiz kimliği. Name: Tarifin adı. AuthorId: Tarifi oluşturan kişinin benzersiz kimliği. AuthorName: Tarifi oluşturan kişinin adı. CookTime: Pişirme süresi. PrepTime: Hazırlık süresi. TotalTime: Toplam hazırlık süresi. DatePublished: Tarifin yayınlanma tarihi. Description: Tarifin açıklaması. Images: Tarife ait resim URL'leri. RecipeCategory: Tarifin kategorisi. Keywords: Tarifi tanımlamak için kullanılan anahtar kelimeler. RecipeIngredientQuantities: Tarifin içeriğindeki malzemelerin miktarları. RecipeIngredientParts: Tarifin içeriğindeki malzemelerin parçaları. AggregatedRating: Tarifin toplam değerlendirme puanı. ReviewCount: Tarifin aldığı değerlendirme sayısı. Calories: Tarifin kalori içeriği. FatContent: Tarifin yağ içeriği. SaturatedFatContent: Tarifin doymuş yağ içeriği. CholesterolContent: Tarifin kolesterol içeriği. SodiumContent: Tarifin sodyum içeriği. CarbohydrateContent: Tarifin karbonhidrat içeriği. FiberContent: Tarifin lif içeriği. SugarContent: Tarifin şeker içeriği. ProteinContent: Tarifin protein içeriği. RecipeServings: Tarifin kaç porsiyon olduğu. RecipeYield: Tariften kaç öğe elde edileceği. RecipeInstructions: Tarifin adımları ve talimatları.
