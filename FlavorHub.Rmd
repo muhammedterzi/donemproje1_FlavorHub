@@ -94,3 +94,12 @@ FloverHub'un seçilmesinde rol oynayan birkaç ana sebep bulunmaktadır:
 **WordPress Altyapısı:** WordPress, kullanıcı dostu arayüzü ve geniş eklenti desteği ile içerik yönetimi için popüler bir tercihtir.
 
 **Topluluk Odaklı Yaklaşım:** FloverHub'un topluluk etkileşimini teşvik eden yapısı, kullanıcıların birbirleriyle etkileşimde bulunmasını ve deneyimlerini paylaşmasını sağlar.
+
+## **Q4 : İyileştirme (optimizasyon) stratejisi [10 puan]**
+
+1.  **Besin Değerlerinin Analizi:** Tariflerin içerdikleri kalori, yağ, şeker, tuz gibi besin öğeleri üzerine detaylı bir analiz yapılır. Bu analiz, her tarifin besin içeriğini kapsamlı bir şekilde değerlendirmeyi sağlar.
+
+2.  **Sağlıklı Beslenme Standartlarına Uygunluk Değerlendirmesi:** Sağlıklı beslenme standartlarına uygun olan tarifler belirlenir. Örneğin, düşük yağ ve şeker içeriği, yüksek lif ve protein içeriği gibi özelliklere sahip tarifler sağlıklı olarak kabul edilebilir.
+
+3.  **Sağlıklı Tariflerin Vurgulanması:** Analiz sonuçlarına göre, besin değerleri açısından zengin ve sağlıklı tariflerin vurgulanması için pazarlama ve reklam stratejileri geliştirilir. Bu tarifler, web sitesinde veya uygulamada öne çıkarılarak kullanıcılara sunulur.
+
