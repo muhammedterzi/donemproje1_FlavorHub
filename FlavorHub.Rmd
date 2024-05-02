@@ -52,3 +52,45 @@ Bu yöntem, IMS Worldpress ve R arasında veri akışını sağlamak için etkil
 **Verisetinin içerdiği sütun bilgileri:**
 
 RecipeId: Tarifin benzersiz kimliği. Name: Tarifin adı. AuthorId: Tarifi oluşturan kişinin benzersiz kimliği. AuthorName: Tarifi oluşturan kişinin adı. CookTime: Pişirme süresi. PrepTime: Hazırlık süresi. TotalTime: Toplam hazırlık süresi. DatePublished: Tarifin yayınlanma tarihi. Description: Tarifin açıklaması. Images: Tarife ait resim URL'leri. RecipeCategory: Tarifin kategorisi. Keywords: Tarifi tanımlamak için kullanılan anahtar kelimeler. RecipeIngredientQuantities: Tarifin içeriğindeki malzemelerin miktarları. RecipeIngredientParts: Tarifin içeriğindeki malzemelerin parçaları. AggregatedRating: Tarifin toplam değerlendirme puanı. ReviewCount: Tarifin aldığı değerlendirme sayısı. Calories: Tarifin kalori içeriği. FatContent: Tarifin yağ içeriği. SaturatedFatContent: Tarifin doymuş yağ içeriği. CholesterolContent: Tarifin kolesterol içeriği. SodiumContent: Tarifin sodyum içeriği. CarbohydrateContent: Tarifin karbonhidrat içeriği. FiberContent: Tarifin lif içeriği. SugarContent: Tarifin şeker içeriği. ProteinContent: Tarifin protein içeriği. RecipeServings: Tarifin kaç porsiyon olduğu. RecipeYield: Tariften kaç öğe elde edileceği. RecipeInstructions: Tarifin adımları ve talimatları.
+
+## **Q3 : İş  tanımı [20 puan]**
+
+**Platform İsmi:** FloverHub
+
+**Lisansı:** WordPress GNU Genel Kamu Lisansı
+
+**Kısa Tarihçe:** FloverHub, yemek tariflerini paylaşmak ve keşfetmek için tasarlanmış bir platformdur. 2024 yılında kurulan FloverHub, kullanıcıların kendi yemek tariflerini paylaşmalarına, diğer kullanıcıların tarifleri keşfetmelerine ve toplulukla etkileşime geçmelerine olanak tanır. Kullanıcılar tarif başına, puan kazanabilir. Bu puanları çeşitli platformların indirim çeklerine dönüştürebilir.
+
+### Platformun Kullanıcıya Sunduğu Özellikler:
+
+**Tarif Paylaşımı:** Kullanıcılar kendi yemek tariflerini fotoğraflarla birlikte paylaşabilirler.
+
+**Tarif Keşfi:** Kullanıcılar geniş bir yemek tarifi veritabanında gezinebilir ve favori tariflerini kaydedebilirler.
+
+**Topluluk Etkileşimi:** Kullanıcılar yorum yapabilir, beğenebilir ve tarif sahipleriyle etkileşimde bulunabilirler.
+
+**Özelleştirilebilir Profil:** Kullanıcılar profillerini kişiselleştirebilir ve favori tariflerini ve takip ettikleri kullanıcıları görüntüleyebilirler.
+
+**Tarif Başına Puan Sistemi:** Kullanıcılar tarif başına, puan kazanabilir. Bu puanları çeşitli platformların indirim çeklerine dönüştürebilir.
+
+### Kullandığı Yazılım, DB ve Diğer Teknolojiler:
+
+**Yazılım:** WordPress içerik yönetim sistemi
+
+**Veritabanı:** MySQL veritabanı yönetim sistemi
+
+**Diğer Teknolojiler:** PHP, CSS, JavaScript
+
+**Tarif Arama:** Harici uygulamalar, FloverHub veritabanında yemek tarifleri arayabilir.
+
+**Tarif Detayları:** Kullanıcılar, tariflerin detaylarını ve fotoğraflarını alabilirler.
+
+**Topluluk Etkileşimi:** Kullanıcılar, yorum yapma ve beğenme gibi topluluk etkileşimi özelliklerine erişebilirler.
+
+### IMS Kategorisi / Platform Seçiminde Rol Oynayan Sebepler:
+
+FloverHub'un seçilmesinde rol oynayan birkaç ana sebep bulunmaktadır:
+
+**WordPress Altyapısı:** WordPress, kullanıcı dostu arayüzü ve geniş eklenti desteği ile içerik yönetimi için popüler bir tercihtir.
+
+**Topluluk Odaklı Yaklaşım:** FloverHub'un topluluk etkileşimini teşvik eden yapısı, kullanıcıların birbirleriyle etkileşimde bulunmasını ve deneyimlerini paylaşmasını sağlar.
