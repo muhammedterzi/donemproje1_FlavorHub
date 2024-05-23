@@ -1,3 +1,10 @@
+document.addEventListener("DOMContentLoaded", function() {
+    var placeTextElement = document.querySelector('#steps > span > span');
+    if (placeTextElement && placeTextElement.textContent.trim() === "") {
+        placeTextElement.classList.add('empty');
+    }
+});
+
 ( function( $ ) {
   "use strict";
 
@@ -596,3 +603,4 @@
 
 
 } )( jQuery );
+

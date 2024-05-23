@@ -10,6 +10,9 @@ License URI:
 Tags: black, blue, gray, white, yellow, dark, light, responsive-layout, custom-background, custom-colors, custom-menu, featured-images, post-formats
 Text Domain: neptune-by-osetin
 */
+#steps{
+	margin-bottom:20px;
+}
 
 .wp-caption {
   max-width: 100%;
