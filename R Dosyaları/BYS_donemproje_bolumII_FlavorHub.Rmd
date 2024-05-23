@@ -318,3 +318,7 @@ Veri setimizi kullanıcıların sisteme doğrudan veri girişi yaptığı şekil
     Elde edilen vektörler kullanılarak hibrit filtreleme temelli algoritmalar ile bir model eğitilir.
 
     Örneğin, recommenderlab paketi kullanılabilir.
+
+## **Q6 : Çalışan Platformun Gösterildiği Sesli Videolu Anlatım [30 puan]**
+
+**Videonun Adresi:** <https://youtu.be/HsnwFR-Gbh4>
